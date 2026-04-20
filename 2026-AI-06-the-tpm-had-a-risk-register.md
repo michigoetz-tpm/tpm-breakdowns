@@ -1,8 +1,8 @@
-# The TPM Had a Risk Register. The Workflow Found Four More.
+# The TPM had a risk register. The workflow found four more.
 
 **2026.AI.06** | Four skills. One comms agent. One workflow that caught what the TPM missed.
 
-*Michi Goetz — April 2026*
+*Michi Goetz | April 16th, 2026*
 
 Published on [TPM Breakdowns](https://michigoetz.substack.com/p/the-tpm-had-a-risk-register)
 
