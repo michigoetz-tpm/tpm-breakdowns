@@ -22,6 +22,7 @@ Topics covered: TPM leadership, AI adoption playbooks, program frameworks, org d
 |---|-------|-----------|
 | 2026.AI.05 | [Tracker. Orchestrator. AI Architect. Which One Are You?](./2026-AI-05-tracker-orchestrator-ai-architect.md) | Mar 31, 2026 |
 | 2026.AI.06 | [The TPM Had a Risk Register. The Workflow Found Four More.](./2026-AI-06-the-tpm-had-a-risk-register.md) | Apr 16, 2026 |
+| 2026.AI.07 | [What AI reads. What you have to ask.](./2026-AI-07-what-ai-reads-what-you-have-to-ask.md) | Apr 2026 |
 
 *More articles coming. Subscribe at [michigoetz.substack.com](https://michigoetz.substack.com) to get them first.*
 
